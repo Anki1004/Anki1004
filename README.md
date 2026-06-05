@@ -16,6 +16,16 @@
 
 ---
 
+### 👨‍💻 About Me
+
+- 🔭 I'm a **Data Analyst** passionate about transforming raw data into actionable insights.
+- 🌱 I'm currently sharpening my skills in **Python, SQL, and data visualization**.
+- 📊 I love working with dashboards, automation, and turning numbers into stories.
+- 💬 Ask me about **data analysis, Python, and SQL**.
+- 📫 Reach me at **ankit25679@gmail.com**
+
+---
+
 ### 🧰 Languages and Tools
 
 <p align="center">
@@ -26,6 +36,7 @@
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
 </p>
@@ -45,6 +56,22 @@
 
 ---
 
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Anki1004&theme=tokyonight&no-frame=true&row=1&column=7" alt="trophies" />
+</p>
+
+---
+
+### 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anki1004&theme=tokyo-night&hide_border=true" alt="activity graph" />
+</p>
+
+---
+
 ### 🐍 Contribution Snake
 
 <p align="center">
@@ -56,10 +83,10 @@
 ### 🤝 Connect with me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/Anki1004">
+  <a href="https://www.linkedin.com/in/ankit-gupta-data-analyst/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:ankit25679@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
