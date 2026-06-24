@@ -8,6 +8,12 @@
 </p>
 
 <p align="center">
+  <a href="https://www.ankitdataanalyst.me/">
+    <img src="https://img.shields.io/badge/Portfolio-ankitdataanalyst.me-2ea44f?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=Anki1004&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
   <a href="https://github.com/Anki1004?tab=followers">
     <img src="https://img.shields.io/github/followers/Anki1004?label=Followers&style=social" alt="followers" />
@@ -22,6 +28,7 @@
 - 🌱 I'm currently sharpening my skills in **Python, SQL, and data visualization**.
 - 📊 I love working with **dashboards, automation, and turning numbers into stories**.
 - 🧩 I'm solving **DSA & problem-solving** challenges on LeetCode.
+- 🌐 Check out my work at **[ankitdataanalyst.me](https://www.ankitdataanalyst.me/)**
 - 💬 Ask me about **data analysis, Python, and SQL**.
 - 📫 Reach me at **ankit25679@gmail.com**
 
@@ -83,6 +90,9 @@
 ## 🤝 Connect with me
 
 <p align="center">
+  <a href="https://www.ankitdataanalyst.me/">
+    <img src="https://img.shields.io/badge/Portfolio-2ea44f?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  </a>
   <a href="https://www.linkedin.com/in/ankit-gupta-data-analyst/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
