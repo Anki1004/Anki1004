@@ -101,6 +101,14 @@
 
 ---
 
+## 🧩 LeetCode Stats
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Anki1004?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode stats" />
+</p>
+
+---
+
 ## 🏆 GitHub Trophies
 
 <p align="center">
@@ -122,6 +130,9 @@
 <p align="center">
   <a href="https://www.ankitdataanalyst.me/"><img src="https://img.shields.io/badge/Portfolio-2ea44f?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
   <a href="mailto:ankit25679@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="LINKEDIN_URL_HERE"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="TWITTER_URL_HERE"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/Anki1004/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
 </p>
 
 ---
