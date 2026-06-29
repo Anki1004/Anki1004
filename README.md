@@ -104,7 +104,7 @@
 ## 🧩 LeetCode Stats
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/Anki1004?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode stats" />
+  <img src="https://leetcard.jacoblin.cool/It6DhpMCpq?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode stats" />
 </p>
 
 ---
@@ -132,7 +132,7 @@
   <a href="mailto:ankit25679@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="LINKEDIN_URL_HERE"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="TWITTER_URL_HERE"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="https://leetcode.com/u/Anki1004/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+  <a href="https://leetcode.com/u/It6DhpMCpq/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
 </p>
 
 ---
