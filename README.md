@@ -58,6 +58,36 @@
 
 ---
 
+## 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3 align="center">🧮 AllSmartCalculators</h3>
+      <p align="center">A suite of free online calculators for finance, health, math & education — EMI, SIP, BMI, GPA and more. Browser-based, no signup, accurate answers in seconds.</p>
+      <p align="center">
+        <a href="https://allsmartcalculators.com/"><img src="https://img.shields.io/badge/Live_Demo-2ea44f?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+      </p>
+    </td>
+    <td width="33%" valign="top">
+      <h3 align="center">📄 ResumeAI Pro</h3>
+      <p align="center">AI-powered resume tailoring for job seekers. Paste a job description to get an ATS-optimized resume & cover letter, with an ATS checker and score insights.</p>
+      <p align="center">
+        <a href="https://resume-ai-pro-88qx.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-FF6B4A?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+      </p>
+    </td>
+    <td width="33%" valign="top">
+      <h3 align="center">🎮 GameStudioHub</h3>
+      <p align="center">A free online gaming portal with 500+ browser games across Action, Puzzle, Racing, Arcade & more — including classics like Pac-Man, 2048 and Space Invaders.</p>
+      <p align="center">
+        <a href="https://gamestudiohub.pages.dev/"><img src="https://img.shields.io/badge/Live_Demo-3B82F6?style=for-the-badge&logo=cloudflare&logoColor=white" /></a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
