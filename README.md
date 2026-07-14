@@ -17,6 +17,12 @@
   <a href="https://github.com/Anki1004?tab=followers"><img src="https://img.shields.io/github/followers/Anki1004?label=Followers&style=social" alt="followers" /></a>
 </p>
 
+## 🎨 ASCII Dot Portrait
+
+<p align="center">
+    <img src="assets/ascii-dot-portrait.svg" width="320" alt="Animated ASCII dot portrait that slowly reveals a picture, dot by dot" />
+</p>
+
 ---
 
 ## 👨‍💻 About Me
