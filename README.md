@@ -142,6 +142,76 @@ const ankit = {
 
 ---
 
+## 📈 Data Visualization Corner
+
+<sub>Rendered natively by GitHub with Mermaid — no external image service, so these always load instantly.</sub>
+
+**🥧 Where my build time goes**
+
+```mermaid
+pie showData
+    title Time split across a typical sprint
+    "Data analysis & SQL" : 30
+    "Frontend / UI" : 25
+    "Backend & APIs" : 20
+    "Dashboards & reporting" : 15
+    "DSA practice" : 10
+```
+
+**📊 Skill confidence, self-rated out of 10**
+
+```mermaid
+xychart-beta
+    title "Confidence by skill"
+    x-axis ["Python", "SQL", "Pandas", "PowerBI", "React", "Node", "Mongo"]
+    y-axis "Level" 0 --> 10
+    bar [9, 9, 8, 8, 8, 7, 7]
+    line [9, 9, 8, 8, 8, 7, 7]
+```
+
+**🔄 How I take a project from raw data to a live dashboard**
+
+```mermaid
+flowchart LR
+    A["🗄️ Raw data<br/>CSV · API · DB"] --> B["🧹 Clean & validate<br/>Python · Pandas"]
+    B --> C["🔎 Explore & model<br/>SQL · statistics"]
+    C --> D["📊 Visualize<br/>Power BI · Charts"]
+    C --> E["⚙️ Serve<br/>Node · REST API"]
+    E --> F["🌐 Web app<br/>React · Next.js"]
+    D --> G["✅ Insights that<br/>drive decisions"]
+    F --> G
+```
+
+**🗺️ 2026 learning roadmap**
+
+```mermaid
+gantt
+    title Skill roadmap 2026
+    dateFormat  YYYY-MM-DD
+    axisFormat  %b
+    section Data
+    Advanced SQL & warehousing   :done,    d1, 2026-01-01, 2026-04-30
+    Statistics & A-B testing     :active,  d2, 2026-05-01, 2026-09-30
+    ML fundamentals              :         d3, 2026-09-01, 2026-12-31
+    section Web
+    Next.js & app router         :active,  w1, 2026-03-01, 2026-08-31
+    Scalable API design          :         w2, 2026-07-01, 2026-11-30
+    section Always on
+    DSA on LeetCode              :active,  a1, 2026-01-01, 2026-12-31
+```
+
+**⚡ Toolbox usage at a glance**
+
+| Tool | Usage | Share |
+| :--- | :--- | ---: |
+| Python | ██████████████████░░ | 90% |
+| SQL | █████████████████░░░ | 85% |
+| JavaScript / TypeScript | ████████████████░░░░ | 80% |
+| React / Next.js | ███████████████░░░░░ | 75% |
+| Power BI / Excel | ██████████████░░░░░░ | 70% |
+| Node.js / Express | █████████████░░░░░░░ | 65% |
+
+---
 ## 📊 GitHub Analytics
 
 <p align="center">
@@ -150,7 +220,7 @@ const ankit = {
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Anki1004&theme=tokyonight&hide_border=true" alt="streak" />
+<img src="https://streak-stats.demolab.com/?user=Anki1004&theme=tokyonight&hide_border=true" alt="streak" />
 </p>
 
 <p align="center">
