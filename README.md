@@ -228,10 +228,6 @@ gantt
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Anki1004&theme=tokyonight" height="200" alt="contribution stats" />
 </p>
 
-<p align="center">
-<img src="https://streak-stats.demolab.com/?user=Anki1004&theme=tokyonight&hide_border=true&disable_animations=true" alt="streak" />
-</p>
-
 ---
 ## 🧩 LeetCode & Problem Solving
 
