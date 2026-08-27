@@ -215,33 +215,24 @@ gantt
 ## 📊 GitHub Analytics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Anki1004&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" height="170" alt="stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anki1004&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170" alt="top langs" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anki1004&theme=tokyonight" alt="profile summary" />
+</p>
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Anki1004&theme=tokyonight" height="200" alt="repos per language" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Anki1004&theme=tokyonight" height="200" alt="most commit language" />
+</p>
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Anki1004&theme=tokyonight&utcOffset=5.5" height="200" alt="productive time" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Anki1004&theme=tokyonight" height="200" alt="contribution stats" />
 </p>
 
 <p align="center">
 <img src="https://streak-stats.demolab.com/?user=Anki1004&theme=tokyonight&hide_border=true" alt="streak" />
 </p>
 
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anki1004&theme=tokyonight" alt="profile summary" />
-</p>
-
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Anki1004&theme=tokyonight&utcOffset=5.5" height="200" alt="productive time" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Anki1004&theme=tokyonight" height="200" alt="most commit language" />
-</p>
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Anki1004&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&margin-h=6&column=7" alt="trophies" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Anki1004&theme=tokyo-night&hide_border=true&area=true" alt="activity graph" />
-</p>
-
 ---
-
 ## 🧩 LeetCode & Problem Solving
 
 <p align="center">
