@@ -122,19 +122,19 @@ const ankit = {
 </p>
 </td>
 <td width="33%" valign="top">
-<h3 align="center">📄 ResumeAI Pro</h3>
+<h3 align="center">📄 ResumeBanao</h3>
 <p align="center">AI-powered resume tailoring for job seekers. Paste a job description to get an ATS-optimized resume &amp; cover letter, with an ATS checker and score insights.</p>
 <p align="center"><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/AI-412991?style=flat-square&logo=openai&logoColor=white" /></p>
 <p align="center">
-<a href="https://resume-ai-pro-88qx.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-FF6B4A?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://resumebanao.app/"><img src="https://img.shields.io/badge/Live_Demo-FF6B4A?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 </p>
 </td>
 <td width="33%" valign="top">
-<h3 align="center">🎮 GameStudioHub</h3>
+<h3 align="center">🎮 360PlayZone</h3>
 <p align="center">A free online gaming portal with 500+ browser games across Action, Puzzle, Racing, Arcade &amp; more — including classics like Pac-Man, 2048 and Space Invaders.</p>
-<p align="center"><img src="https://img.shields.io/badge/Web_Games-3B82F6?style=flat-square&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/Cloudflare_Pages-F38020?style=flat-square&logo=cloudflare&logoColor=white" /></p>
+<p align="center"><img src="https://img.shields.io/badge/Web_Games-3B82F6?style=flat-square&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/500%2B_Games-8B5CF6?style=flat-square&logo=gamepad&logoColor=white" /></p>
 <p align="center">
-<a href="https://gamestudiohub.pages.dev/"><img src="https://img.shields.io/badge/Live_Demo-3B82F6?style=for-the-badge&logo=cloudflare&logoColor=white" /></a>
+<a href="https://360playzone.com/"><img src="https://img.shields.io/badge/Live_Demo-3B82F6?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 </p>
 </td>
 </tr>
