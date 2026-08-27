@@ -229,14 +229,14 @@ gantt
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com/?user=Anki1004&theme=tokyonight&hide_border=true" alt="streak" />
+<img src="https://streak-stats.demolab.com/?user=Anki1004&theme=tokyonight&hide_border=true&disable_animations=true" alt="streak" />
 </p>
 
 ---
 ## 🧩 LeetCode & Problem Solving
 
 <p align="center">
-<img src="https://leetcard.jacoblin.cool/It6DhpMCpq?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode stats" />
+<img src="https://leetcard.jacoblin.cool/It6DhpMCpq?theme=dark&font=Fira%20Code&ext=heatmap&animation=false" alt="LeetCode stats" />
 </p>
 
 ---
