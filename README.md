@@ -120,6 +120,16 @@ const ankit = {
 <p align="center">
 <a href="https://allsmartcalculators.com/"><img src="https://img.shields.io/badge/Live_Demo-2ea44f?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 </p>
+
+<details>
+<summary align="center"><b>⚙️ Under the hood</b></summary>
+<br/>
+
+- **Next.js** frontend on **Vercel**, content served from a **Strapi** CMS
+- Calculators grouped by category (finance, health, education, everyday) with a dedicated corrections log for factual fixes
+- Built SEO-first: every calculator is a real indexable page, not a client-only widget
+
+</details>
 </td>
 <td width="33%" valign="top">
 <h3 align="center">📄 ResumeBanao</h3>
@@ -128,14 +138,34 @@ const ankit = {
 <p align="center">
 <a href="https://resumebanao.app/"><img src="https://img.shields.io/badge/Live_Demo-FF6B4A?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 </p>
+
+<details>
+<summary align="center"><b>⚙️ Under the hood</b></summary>
+<br/>
+
+- **Next.js + Supabase (Postgres)** on **Vercel**, payments through **Razorpay**
+- Paste a JD → AI rewrites the resume against it, then the built-in ATS checker scores the match before you download
+- Resume + portfolio templates share one registry so new designs drop in without touching the render pipeline
+
+</details>
 </td>
 <td width="33%" valign="top">
 <h3 align="center">🎮 360PlayZone</h3>
-<p align="center">A free online gaming portal with 500+ browser games across Action, Puzzle, Racing, Arcade &amp; more — including classics like Pac-Man, 2048 and Space Invaders.</p>
-<p align="center"><img src="https://img.shields.io/badge/Web_Games-3B82F6?style=flat-square&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/500%2B_Games-8B5CF6?style=flat-square&logo=gamepad&logoColor=white" /></p>
+<p align="center">A free online gaming portal with 260+ browser games across Action, Puzzle, Racing, Arcade &amp; more — no installs, just click and play.</p>
+<p align="center"><img src="https://img.shields.io/badge/Web_Games-3B82F6?style=flat-square&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/260%2B_Games-8B5CF6?style=flat-square&logo=gamepad&logoColor=white" /></p>
 <p align="center">
 <a href="https://360playzone.com/"><img src="https://img.shields.io/badge/Live_Demo-3B82F6?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 </p>
+
+<details>
+<summary align="center"><b>⚙️ Under the hood</b></summary>
+<br/>
+
+- Fully static — **Cloudflare Pages**, no server, no database
+- A JSON content pipeline generates every page twice: a **React SPA** for browsing and **prerendered HTML** per game so it's crawlable without JS
+- 16 locales, all generated from the same source content, edited through a self-hosted **Sveltia CMS**
+
+</details>
 </td>
 </tr>
 </table>
@@ -213,6 +243,15 @@ gantt
 
 ---
 ## 📊 GitHub Analytics
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Anki1004/Anki1004/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Anki1004/Anki1004/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/Anki1004/Anki1004/output/github-contribution-grid-snake.svg" alt="a snake eating my contribution graph, one square at a time" />
+</picture>
+</p>
+<p align="center"><sub>The snake above is generated from my real contribution graph by a GitHub Action, redrawn every 12 hours — <a href=".github/workflows/snake.yml">see the workflow</a>.</sub></p>
 
 <p align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anki1004&theme=tokyonight" alt="profile summary" />
