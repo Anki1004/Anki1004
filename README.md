@@ -109,6 +109,39 @@ const ankit = {
 
 ---
 
+## 📊 Power BI Dashboards
+
+<sub>Multi-page reports on real public data. Each repo holds the full Power BI project (TMDL model + PBIR report), the data prep scripts and screenshots of every page.</sub>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/Anki1004/powerbi-data-jobs-market"><img src="https://raw.githubusercontent.com/Anki1004/powerbi-data-jobs-market/main/screenshots/01-overview.png" alt="Data Jobs Market Intelligence" /></a>
+<h4><a href="https://github.com/Anki1004/powerbi-data-jobs-market">Data Jobs Market Intelligence</a></h4>
+<p><b>785,741</b> real 2023 job postings as a star schema with <b>54 DAX measures</b>: roles, skills, salaries and geography, with top-N visuals that stay correct under any slicer.</p>
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/Anki1004/powerbi-ai-race"><img src="https://raw.githubusercontent.com/Anki1004/powerbi-ai-race/main/screenshots/01-overview.png" alt="The AI Race 1950 to 2026" /></a>
+<h4><a href="https://github.com/Anki1004/powerbi-ai-race">The AI Race 1950 → 2026</a></h4>
+<p>Epoch AI's <b>1,065 notable AI models</b> across 8 pages and <b>76 measures</b>: compute frontier, training cost, labs and openness, with drillthrough and report-page tooltips.</p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/Anki1004/powerbi-upi-pulse"><img src="https://raw.githubusercontent.com/Anki1004/powerbi-upi-pulse/main/screenshots/01-overview.png" alt="UPI Pulse" /></a>
+<h4><a href="https://github.com/Anki1004/powerbi-upi-pulse">UPI Pulse</a></h4>
+<p><b>125 months</b> of official NPCI statistics pulled from NPCI's APIs: year-on-year KPIs, app shares and people-vs-merchant payments.</p>
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/Anki1004/powerbi-delhi-metro"><img src="https://raw.githubusercontent.com/Anki1004/powerbi-delhi-metro/main/screenshots/2_overview.png" alt="Delhi Metro in Numbers" /></a>
+<h4><a href="https://github.com/Anki1004/powerbi-delhi-metro">Delhi Metro in Numbers</a></h4>
+<p>DMRC ridership rebuilt from monthly PDFs, with <b>229 stations</b> on an offline map made from a scatter chart. Bilingual and generated from code.</p>
+</td>
+</tr>
+</table>
+
+---
+
 ## 🚀 Featured Projects
 
 <table>
