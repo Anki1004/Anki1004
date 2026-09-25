@@ -148,8 +148,8 @@ const ankit = {
 <tr>
 <td width="33%" valign="top">
 <h3 align="center">🧮 AllSmartCalculators</h3>
-<p align="center">A suite of free online calculators for finance, health, math &amp; education — EMI, SIP, BMI, GPA and more. Browser-based, no signup, accurate answers in seconds.</p>
-<p align="center"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/SEO-4285F4?style=flat-square&logo=google&logoColor=white" /></p>
+<p align="center">140+ free calculators for finance, health, math &amp; education — EMI, SIP, BMI, GPA, plus an India payroll set (EPF, ESI, TDS on salary, in-hand ↔ CTC). Browser-based, no signup.</p>
+<p align="center"><img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/SEO-4285F4?style=flat-square&logo=google&logoColor=white" /></p>
 <p align="center">
 <a href="https://allsmartcalculators.com/"><img src="https://img.shields.io/badge/Live_Demo-2ea44f?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 </p>
@@ -158,7 +158,8 @@ const ankit = {
 <summary align="center"><b>⚙️ Under the hood</b></summary>
 <br/>
 
-- **Next.js** frontend on **Vercel**, content served from a **Strapi** CMS
+- **Next.js + TypeScript** on **Vercel**, with a calculator registry that wires logic, content and indexability from one entry each
+- India payroll figures checked by a script that replicates the new-regime tax rules
 - Calculators grouped by category (finance, health, education, everyday) with a dedicated corrections log for factual fixes
 - Built SEO-first: every calculator is a real indexable page, not a client-only widget
 
