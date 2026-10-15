@@ -1,114 +1,332 @@
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:1E3A8A&height=190&section=header&text=Ankit%20Gupta&fontSize=54&fontColor=ffffff&fontAlignY=32&desc=Data%20Analyst%20%7C%20Full%20Stack%20Developer&descAlignY=54&descSize=18&animation=fadeIn" alt="banner" />
+</div>
+
+<h3 align="center">Turning Data into Insights &nbsp;•&nbsp; Building Web Experiences</h3>
+
 <p align="center">
-  <img src="assets/hero.svg" width="100%" alt="Ankit Gupta. I turn messy public data into dashboards, and ideas into web products people use. Data analyst and full-stack developer." />
+<a href="https://github.com/Anki1004">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Data+Analyst+%7C+Full+Stack+Developer;Python+%7C+SQL+%7C+JavaScript+%7C+React;Turning+Raw+Data+into+Clear+Decisions;Building+End-to-End+Web+Apps;Always+Learning%2C+Always+Building" alt="Typing SVG" />
+</a>
 </p>
 
 <p align="center">
-  <a href="https://www.ankitdataanalyst.me/"><b>ankitdataanalyst.me</b></a>
-  &nbsp;·&nbsp;
-  <a href="mailto:ankit25679@gmail.com">ankit25679@gmail.com</a>
-  &nbsp;·&nbsp;
-  <a href="https://leetcode.com/u/It6DhpMCpq/">LeetCode</a>
+<a href="https://www.ankitdataanalyst.me/"><img src="https://img.shields.io/badge/Portfolio-ankitdataanalyst.me-2ea44f?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+<a href="mailto:ankit25679@gmail.com"><img src="https://img.shields.io/badge/Email-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://leetcode.com/u/It6DhpMCpq/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
 </p>
 
-<br />
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Anki1004&label=Profile%20views&color=0e75b6&style=flat-square" alt="profile views" />
+<a href="https://github.com/Anki1004?tab=followers"><img src="https://img.shields.io/github/followers/Anki1004?label=Followers&style=flat-square&color=0e75b6" alt="followers" /></a>
+<a href="https://github.com/Anki1004?tab=repositories"><img src="https://img.shields.io/badge/Open%20to-Collaboration-8A2BE2?style=flat-square" alt="open to collaboration" /></a>
+</p>
 
-Most of what I build starts with a question and a messy file. A folder of monthly PDFs from the Delhi Metro. NPCI's raw UPI statistics. Three-quarters of a million job postings. I clean it, model it properly, and turn it into something a person can read in thirty seconds.
+---
 
-The other half of my week goes into products that real people use, where the same habits apply: measure, build, iterate.
+## 👨‍💻 About Me
 
-> **Open to** freelance work, internships and data-heavy side projects. The fastest way to reach me is [email](mailto:ankit25679@gmail.com).
-
-<br />
-
-## `01` &nbsp;Dashboards, built on real public data
-
-Each repo holds the full Power BI project (TMDL model + PBIR report), the data prep scripts and a screenshot of every page.
+```ts
+const ankit = {
+  role: ["Data Analyst", "Full Stack Developer"],
+  stack: {
+    data: ["Python", "SQL", "Pandas", "Power BI", "Excel"],
+    web:  ["React", "Next.js", "Node.js", "Express", "MongoDB"],
+  },
+  focus: ["Data storytelling", "Scalable APIs", "Clean UI"],
+  currently: "Building products that ship, and solving DSA daily",
+  motto: "Measure, build, iterate.",
+};
+```
 
 <table>
 <tr>
-<td width="50%" valign="top">
-<a href="https://github.com/Anki1004/powerbi-data-jobs-market"><img src="https://raw.githubusercontent.com/Anki1004/powerbi-data-jobs-market/main/screenshots/01-overview.png" alt="Data Jobs Market Intelligence dashboard" /></a>
-<br />
-<b><a href="https://github.com/Anki1004/powerbi-data-jobs-market">Data Jobs Market Intelligence</a></b>
-<br />
-<sub><code>785,741 postings</code> <code>54 DAX measures</code></sub>
-<br />
-<sub>Roles, skills, salaries and geography as a star schema, with top-N visuals that stay correct under any slicer.</sub>
+<td valign="top" width="50%">
+
+**What I do**
+
+- 📊 Turn raw, messy data into dashboards and decisions.
+- 🌐 Build responsive, end-to-end web apps (frontend → backend).
+- 🔎 Explore, clean and model data with Python + SQL.
+- 🧩 Sharpen problem solving with DSA on LeetCode.
+
 </td>
-<td width="50%" valign="top">
-<a href="https://github.com/Anki1004/powerbi-ai-race"><img src="https://raw.githubusercontent.com/Anki1004/powerbi-ai-race/main/screenshots/01-overview.png" alt="The AI Race 1950 to 2026 dashboard" /></a>
-<br />
-<b><a href="https://github.com/Anki1004/powerbi-ai-race">The AI Race, 1950 → 2026</a></b>
-<br />
-<sub><code>1,065 AI models</code> <code>8 pages</code> <code>76 measures</code></sub>
-<br />
-<sub>Epoch AI's notable models: compute frontier, training cost, labs and openness, with drillthrough and page tooltips.</sub>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<a href="https://github.com/Anki1004/powerbi-upi-pulse"><img src="https://raw.githubusercontent.com/Anki1004/powerbi-upi-pulse/main/screenshots/01-overview.png" alt="UPI Pulse dashboard" /></a>
-<br />
-<b><a href="https://github.com/Anki1004/powerbi-upi-pulse">UPI Pulse</a></b>
-<br />
-<sub><code>125 months</code> <code>NPCI APIs</code></sub>
-<br />
-<sub>Official NPCI statistics: year-on-year KPIs, app market share and people-vs-merchant payments.</sub>
-</td>
-<td width="50%" valign="top">
-<a href="https://github.com/Anki1004/powerbi-delhi-metro"><img src="https://raw.githubusercontent.com/Anki1004/powerbi-delhi-metro/main/screenshots/2_overview.png" alt="Delhi Metro in Numbers dashboard" /></a>
-<br />
-<b><a href="https://github.com/Anki1004/powerbi-delhi-metro">Delhi Metro in Numbers</a></b>
-<br />
-<sub><code>229 stations</code> <code>bilingual</code></sub>
-<br />
-<sub>DMRC ridership rebuilt from monthly PDFs, with every station on an offline map made from a scatter chart.</sub>
+<td valign="top" width="50%">
+
+**Quick facts**
+
+- 🌱 Learning: data visualization, modern web frameworks, scalable APIs.
+- 🤝 Open to: freelance, internships and open-source collaboration.
+- 💬 Ask me about: data analysis, Python, SQL, full-stack development.
+- 📫 Reach me: **ankit25679@gmail.com**
+
 </td>
 </tr>
 </table>
 
+---
+
+## 🧰 Tech Stack
+
+<table align="center">
+<tr>
+<td align="center" width="180"><b>📊 Data & Analytics</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=python,mysql,postgres,r,sklearn&perline=9" alt="data" />
 <br />
-
-## `02` &nbsp;Products in production
-
-<a href="https://allsmartcalculators.com/"><img src="assets/card-allsmartcalculators.svg" width="100%" alt="AllSmartCalculators: 140+ finance, health, maths and education calculators, plus an India payroll set. Next.js, TypeScript, Vercel." /></a>
-
-<a href="https://resumebanao.app/"><img src="assets/card-resumebanao.svg" width="100%" alt="ResumeBanao: paste a job description and get an ATS-optimised resume and cover letter. Next.js, Supabase, Razorpay." /></a>
-
-<a href="https://360playzone.com/"><img src="assets/card-360playzone.svg" width="100%" alt="360PlayZone: 260+ free browser games in 16 languages. React, prerendered HTML, Cloudflare Pages." /></a>
-
-<details>
-<summary><b>How they're built</b></summary>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
+<img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" />
+<img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" />
+</td>
+</tr>
+<tr>
+<td align="center"><b>🌐 Frontend</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bootstrap&perline=9" alt="frontend" />
 <br />
-
-**AllSmartCalculators.** A calculator registry wires the logic, content and indexability of each tool from a single entry. India payroll figures are checked by a script that replicates the new-regime tax rules, and factual fixes go into a dedicated corrections log.
-
-**ResumeBanao.** Paste a JD, the AI rewrites the resume against it, then the ATS checker scores the match before download. Resume and portfolio templates share one registry, so new designs drop in without touching the render pipeline.
-
-**360PlayZone.** Fully static. A JSON content pipeline generates every page twice: a React SPA for browsing and prerendered HTML per game so it's crawlable without JavaScript. 16 locales come from the same source content, edited through a self-hosted Sveltia CMS.
-
-</details>
-
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Responsive_Design-38BDF8?style=flat-square&logo=css3&logoColor=white" />
+</td>
+</tr>
+<tr>
+<td align="center"><b>⚙️ Backend & Data Stores</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase&perline=9" alt="backend" />
 <br />
-
-## `03` &nbsp;How I work
-
-<img src="assets/pipeline.svg" width="100%" alt="Source (CSV, API, PDF) → Clean (Python, Pandas) → Model (SQL, DAX, TMDL) → Ship (Power BI, Next.js) → Decide." />
-
-<br />
-
-## `04` &nbsp;Toolkit
-
-```text
-analyse   Python · SQL · Pandas · NumPy · Power BI (DAX, TMDL, PBIR) · Excel · Tableau
-build     TypeScript · React · Next.js · Node.js · Express · Tailwind CSS
-store     PostgreSQL · Supabase · MySQL · MongoDB · Firebase
-ship      Vercel · Cloudflare Pages · GitHub Actions · Git · Linux
-practise  DSA on LeetCode, most days
-```
-
-<br />
+<img src="https://img.shields.io/badge/REST_APIs-005571?style=flat-square&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/JWT_Auth-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
+</td>
+</tr>
+<tr>
+<td align="center"><b>🛠️ Tools & Deploy</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,vercel,cloudflare,figma,postman&perline=9" alt="tools" />
+</td>
+</tr>
+</table>
 
 ---
 
-<p align="center"><sub>Got a dataset that needs a story, or a product idea that needs shipping? <a href="mailto:ankit25679@gmail.com">Write to me.</a></sub></p>
+## 📊 Power BI Dashboards
+
+<sub>Multi-page reports on real public data. Each repo holds the full Power BI project (TMDL model + PBIR report), the data prep scripts and screenshots of every page.</sub>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/Anki1004/powerbi-data-jobs-market"><img src="https://raw.githubusercontent.com/Anki1004/powerbi-data-jobs-market/main/screenshots/01-overview.png" alt="Data Jobs Market Intelligence" /></a>
+<h4><a href="https://github.com/Anki1004/powerbi-data-jobs-market">Data Jobs Market Intelligence</a></h4>
+<p><b>785,741</b> real 2023 job postings as a star schema with <b>54 DAX measures</b>: roles, skills, salaries and geography, with top-N visuals that stay correct under any slicer.</p>
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/Anki1004/powerbi-ai-race"><img src="https://raw.githubusercontent.com/Anki1004/powerbi-ai-race/main/screenshots/01-overview.png" alt="The AI Race 1950 to 2026" /></a>
+<h4><a href="https://github.com/Anki1004/powerbi-ai-race">The AI Race 1950 → 2026</a></h4>
+<p>Epoch AI's <b>1,065 notable AI models</b> across 8 pages and <b>76 measures</b>: compute frontier, training cost, labs and openness, with drillthrough and report-page tooltips.</p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/Anki1004/powerbi-upi-pulse"><img src="https://raw.githubusercontent.com/Anki1004/powerbi-upi-pulse/main/screenshots/01-overview.png" alt="UPI Pulse" /></a>
+<h4><a href="https://github.com/Anki1004/powerbi-upi-pulse">UPI Pulse</a></h4>
+<p><b>125 months</b> of official NPCI statistics pulled from NPCI's APIs: year-on-year KPIs, app shares and people-vs-merchant payments.</p>
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/Anki1004/powerbi-delhi-metro"><img src="https://raw.githubusercontent.com/Anki1004/powerbi-delhi-metro/main/screenshots/2_overview.png" alt="Delhi Metro in Numbers" /></a>
+<h4><a href="https://github.com/Anki1004/powerbi-delhi-metro">Delhi Metro in Numbers</a></h4>
+<p>DMRC ridership rebuilt from monthly PDFs, with <b>229 stations</b> on an offline map made from a scatter chart. Bilingual and generated from code.</p>
+</td>
+</tr>
+</table>
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="33%" valign="top">
+<h3 align="center">🧮 AllSmartCalculators</h3>
+<p align="center">140+ free calculators for finance, health, math &amp; education — EMI, SIP, BMI, GPA, plus an India payroll set (EPF, ESI, TDS on salary, in-hand ↔ CTC). Browser-based, no signup.</p>
+<p align="center"><img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/SEO-4285F4?style=flat-square&logo=google&logoColor=white" /></p>
+<p align="center">
+<a href="https://allsmartcalculators.com/"><img src="https://img.shields.io/badge/Live_Demo-2ea44f?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+</p>
+
+<details>
+<summary align="center"><b>⚙️ Under the hood</b></summary>
+<br/>
+
+- **Next.js + TypeScript** on **Vercel**, with a calculator registry that wires logic, content and indexability from one entry each
+- India payroll figures checked by a script that replicates the new-regime tax rules
+- Calculators grouped by category (finance, health, education, everyday) with a dedicated corrections log for factual fixes
+- Built SEO-first: every calculator is a real indexable page, not a client-only widget
+
+</details>
+</td>
+<td width="33%" valign="top">
+<h3 align="center">📄 ResumeBanao</h3>
+<p align="center">AI-powered resume tailoring for job seekers. Paste a job description to get an ATS-optimized resume &amp; cover letter, with an ATS checker and score insights.</p>
+<p align="center"><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/AI-412991?style=flat-square&logo=openai&logoColor=white" /></p>
+<p align="center">
+<a href="https://resumebanao.app/"><img src="https://img.shields.io/badge/Live_Demo-FF6B4A?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+</p>
+
+<details>
+<summary align="center"><b>⚙️ Under the hood</b></summary>
+<br/>
+
+- **Next.js + Supabase (Postgres)** on **Vercel**, payments through **Razorpay**
+- Paste a JD → AI rewrites the resume against it, then the built-in ATS checker scores the match before you download
+- Resume + portfolio templates share one registry so new designs drop in without touching the render pipeline
+
+</details>
+</td>
+<td width="33%" valign="top">
+<h3 align="center">🎮 360PlayZone</h3>
+<p align="center">A free online gaming portal with 260+ browser games across Action, Puzzle, Racing, Arcade &amp; more — no installs, just click and play.</p>
+<p align="center"><img src="https://img.shields.io/badge/Web_Games-3B82F6?style=flat-square&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/260%2B_Games-8B5CF6?style=flat-square&logo=gamepad&logoColor=white" /></p>
+<p align="center">
+<a href="https://360playzone.com/"><img src="https://img.shields.io/badge/Live_Demo-3B82F6?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+</p>
+
+<details>
+<summary align="center"><b>⚙️ Under the hood</b></summary>
+<br/>
+
+- Fully static — **Cloudflare Pages**, no server, no database
+- A JSON content pipeline generates every page twice: a **React SPA** for browsing and **prerendered HTML** per game so it's crawlable without JS
+- 16 locales, all generated from the same source content, edited through a self-hosted **Sveltia CMS**
+
+</details>
+</td>
+</tr>
+</table>
+
+---
+
+## 📈 Data Visualization Corner
+
+<sub>Rendered natively by GitHub with Mermaid — no external image service, so these always load instantly.</sub>
+
+**🥧 Where my build time goes**
+
+```mermaid
+pie showData
+    title Time split across a typical sprint
+    "Data analysis & SQL" : 30
+    "Frontend / UI" : 25
+    "Backend & APIs" : 20
+    "Dashboards & reporting" : 15
+    "DSA practice" : 10
+```
+
+**📊 Skill confidence, self-rated out of 10**
+
+```mermaid
+xychart-beta
+    title "Confidence by skill"
+    x-axis ["Python", "SQL", "Pandas", "PowerBI", "React", "Node", "Mongo"]
+    y-axis "Level" 0 --> 10
+    bar [9, 9, 8, 8, 8, 7, 7]
+    line [9, 9, 8, 8, 8, 7, 7]
+```
+
+**🔄 How I take a project from raw data to a live dashboard**
+
+```mermaid
+flowchart LR
+    A["🗄️ Raw data<br/>CSV · API · DB"] --> B["🧹 Clean & validate<br/>Python · Pandas"]
+    B --> C["🔎 Explore & model<br/>SQL · statistics"]
+    C --> D["📊 Visualize<br/>Power BI · Charts"]
+    C --> E["⚙️ Serve<br/>Node · REST API"]
+    E --> F["🌐 Web app<br/>React · Next.js"]
+    D --> G["✅ Insights that<br/>drive decisions"]
+    F --> G
+```
+
+**🗺️ 2026 learning roadmap**
+
+```mermaid
+gantt
+    title Skill roadmap 2026
+    dateFormat  YYYY-MM-DD
+    axisFormat  %b
+    section Data
+    Advanced SQL & warehousing   :done,    d1, 2026-01-01, 2026-04-30
+    Statistics & A-B testing     :active,  d2, 2026-05-01, 2026-09-30
+    ML fundamentals              :         d3, 2026-09-01, 2026-12-31
+    section Web
+    Next.js & app router         :active,  w1, 2026-03-01, 2026-08-31
+    Scalable API design          :         w2, 2026-07-01, 2026-11-30
+    section Always on
+    DSA on LeetCode              :active,  a1, 2026-01-01, 2026-12-31
+```
+
+**⚡ Toolbox usage at a glance**
+
+| Tool | Usage | Share |
+| :--- | :--- | ---: |
+| Python | ██████████████████░░ | 90% |
+| SQL | █████████████████░░░ | 85% |
+| JavaScript / TypeScript | ████████████████░░░░ | 80% |
+| React / Next.js | ███████████████░░░░░ | 75% |
+| Power BI / Excel | ██████████████░░░░░░ | 70% |
+| Node.js / Express | █████████████░░░░░░░ | 65% |
+
+---
+## 📊 GitHub Analytics
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Anki1004/Anki1004/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Anki1004/Anki1004/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/Anki1004/Anki1004/output/github-contribution-grid-snake.svg" alt="a snake eating my contribution graph, one square at a time" />
+</picture>
+</p>
+<p align="center"><sub>The snake above is generated from my real contribution graph by a GitHub Action, redrawn every 12 hours — <a href=".github/workflows/snake.yml">see the workflow</a>.</sub></p>
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anki1004&theme=tokyonight" alt="profile summary" />
+</p>
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Anki1004&theme=tokyonight" height="200" alt="repos per language" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Anki1004&theme=tokyonight" height="200" alt="most commit language" />
+</p>
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Anki1004&theme=tokyonight&utcOffset=5.5" height="200" alt="productive time" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Anki1004&theme=tokyonight" height="200" alt="contribution stats" />
+</p>
+
+---
+## 🧩 LeetCode & Problem Solving
+
+<p align="center">
+<img src="https://leetcard.jacoblin.cool/It6DhpMCpq?theme=dark&font=Fira%20Code&ext=heatmap&animation=false" alt="LeetCode stats" />
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+<a href="https://www.ankitdataanalyst.me/"><img src="https://img.shields.io/badge/Portfolio-2ea44f?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+<a href="mailto:ankit25679@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://leetcode.com/u/It6DhpMCpq/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+<a href="https://github.com/Anki1004"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+
+<div align="center">
+
+💡 *"Data tells the story — good software makes people listen."*
+
+</div>
+
+---
+
+<p align="center">⭐️ From <a href="https://github.com/Anki1004">Anki1004</a> — turning data into insights, one commit at a time.</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,100:36BCF7&height=110&section=footer" alt="footer" />
