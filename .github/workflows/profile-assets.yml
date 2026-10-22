@@ -1,0 +1,23 @@
+name: profile-assets
+on:
+  schedule: [{ cron: '0 3 * * *' }]
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with: { node-version: 20 }
+      - name: Build every profile SVG (city, shooter, activity, header, cards, stack)
+        run: node scripts/build-all.mjs
+        env: { GITHUB_TOKEN: '${{ secrets.GITHUB_TOKEN }}' }
+      - name: Commit if changed
+        run: |
+          git config user.name "profile-bot"
+          git config user.email "profile-bot@users.noreply.github.com"
+          git add assets
+          git diff --cached --quiet || git commit -m "chore: refresh profile assets"
+          git push
